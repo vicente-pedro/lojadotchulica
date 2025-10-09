@@ -7,7 +7,7 @@ Aqui você encontrará:
 
 ---
 
-## 🍬 Planejamento e Controle de Tarefas
+## 📌 Planejamento e Controle de Tarefas
 - Organização do que **ainda precisa ser feito**  
 - Registro do que **já foi concluído**  
 - Anotações e **melhorias futuras**  
