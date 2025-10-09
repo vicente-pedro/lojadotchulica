@@ -1,7 +1,7 @@
 # lojadotchulica
-# 🏠 Casa dos Doces – Desenvolvimento do Site
+# 🏠 Loja do Tchulica – Desenvolvimento do Site
 
-Este repositório é dedicado ao **desenvolvimento completo do site "Casa dos Doces"**.  
+Este repositório é dedicado ao **desenvolvimento completo do site "Loja do Tchulica"**.  
 
 Aqui você encontrará:  
 
