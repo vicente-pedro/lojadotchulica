@@ -1,5 +1,5 @@
 # lojadotchulica
-# 🏠 Loja do Tchulica – Desenvolvimento do Site
+# Loja do Tchulica – Desenvolvimento do Site
 
 Este repositório é dedicado ao **desenvolvimento completo do site "Loja do Tchulica"**.  
 
