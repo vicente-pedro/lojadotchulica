@@ -1,23 +1,23 @@
 # Tarefas do Projeto - Loja do Tchulica
 
 ## Layout e Design
-- [ ] Definir cores, fontes e identidade visual
-- [ ] Criar wireframes das páginas
-- [ ] Aprovar layout final
+- [x] Definir cores, fontes e identidade visual
+- [x] Criar wireframes das páginas
+- [x] Aprovar layout final
 
 ## Estrutura do Site
-- [ ] Criar componentes base (Header, Footer, Navbar)
-- [ ] Criar páginas (Home, Produtos, Serviços, Contato, Sobre)
-- [ ] Configurar rotas do React
+- [x] Criar componentes base (Header, Footer, Navbar)
+- [x] Criar páginas (Home, Produtos, Serviços, Contato, Sobre)
+- [x] Configurar rotas do React
 
 ## Funcionalidades
-- [ ] Lista de produtos e serviços
-- [ ] Formulário de contato funcional
-- [ ] Carrossel de imagens na página inicial
-- [ ] Responsividade para celulares e tablets
+- [x] Lista de produtos e serviços
+- [x] Cadastro de usuários funcional
+- [x] Responsividade para dispositivos móveis e desktops
 
 ## Testes e Ajustes
-- [ ] Revisar layout em diferentes navegadores
-- [ ] Testar funcionalidades
-- [ ] Corrigir bugs e ajustes de UI/UX
+- [x] Revisar layout em diferentes navegadores
+- [x] Testar funcionalidades
+- [x] Corrigir bugs e ajustes de UI/UX
+
 
