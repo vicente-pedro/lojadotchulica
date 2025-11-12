@@ -1,12 +1,11 @@
 # Prioridades do Projeto - Loja do Tchulica
 
 ## Funcionalidades Essenciais
-- [ ] Páginas principais: Home, Produtos, Serviços, Contato, Sobre
-- [ ] Layout responsivo e moderno
-- [ ] Lista de produtos e serviços visível e organizada
-- [ ] Componentes base funcionando (Header, Footer, Navbar)
+- [x]  Páginas principais: Home, Produtos, Serviços, Contato, Sobre
+- [x] Layout responsivo e moderno
+- [x] Lista de produtos e serviços visível e organizada
+- []x Componentes base funcionando (Header, Footer, Navbar)
 
 ## Funcionalidades Secundárias
-- [ ] Carrossel de imagens
-- [ ] Formulário de contato funcional
-- [ ] Botões de ação (WhatsApp, telefone, etc.)
+- [x] Cadastro de usuário o funcional
+- [x] Informações para contato e localização da loja.
