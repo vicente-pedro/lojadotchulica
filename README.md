@@ -83,8 +83,17 @@ raiz do projeto/
 ### 1. Clone o repositório
 ```bash
 git clone https://github.com/vicente-pedro/loja-do-tchulica
+````
+### 2. Entre na pasta do projeto
+```bash
 cd loja-do-tchulica
+```
+### 3. Instale as dependências
+```bash
 npm install
+```
+### 4. Inicie o servidor de desenvolvimento
+```bash
 npm run dev
 ````
 A aplicação rodará em:
