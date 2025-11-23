@@ -21,13 +21,18 @@ O projeto foi desenvolvido em **React + TypeScript + Vite**, utilizando Context 
 
 ```
 raiz do projeto/
-├── public/                 # Imagens estáticas e ícones
+├── public/
+│   ├── images              # Imagens estáticas e ícones
 ├── src/
 │   ├── assets/             # Imagens usadas no código
 │   ├── components/         # Componentes reutilizáveis
 │   │   ├── Header.tsx
+│   │   ├── Header.css
 │   │   ├── Footer.tsx
+│   │   ├── Footer.css
 │   │   ├── ProductCard.tsx
+│   │   ├── ProductCard.css
+│   │   ├── ScrollToTop.tsx
 │   ├── context/            # Context API
 │   │   ├── AuthContext.tsx
 │   │   ├── CartContext.tsx
@@ -38,16 +43,33 @@ raiz do projeto/
 │   │   ├── useProducts.ts
 │   ├── pages/              # Páginas principais
 │   │   ├── Home.tsx
+│   │   ├── Home.css
 │   │   ├── Cart.tsx
+│   │   ├── Cart.css
 │   │   ├── ProductDetail.tsx
+│   │   ├── ProuctDetail.css
 │   │   ├── Admin.tsx
+│   │   ├── Admin.css
+│   │   ├── Auth.tsx
+│   │   ├── Auth.css
+│   │   ├── Login.tsx
+│   │   ├── Login.css
+│   │   ├── Products.tsx
+│   │   ├── Products.css
+│   │   ├── Register.tsx
+│   │   ├── Register.css
 │   ├── types/              # Tipagens
 │   │   ├── frete.ts
+│   │   ├── index.ts
 │   ├── App.tsx             # Rotas e Providers
+│   ├── App.css
+│   ├── index.css     
 │   ├── main.tsx            # Ponto de entrada
 ├── package.json
 ├── tsconfig.json
+├── index.html
 └── vite.config.ts
+
 ```
 
 ---
