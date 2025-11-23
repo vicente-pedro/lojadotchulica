@@ -118,4 +118,10 @@ A aplicação rodará em:
 - Hook `useFrete()`  
 - Simulação de frete baseada em valor e região  
 
+---
+## 🌎 Acesse o Site Online
 
+A Loja do Tchulica já está disponível no ar!
+Clique no link abaixo para acessar a versão publicada no Netlify:
+
+👉 https://lojadotchulica.netlify.app/
