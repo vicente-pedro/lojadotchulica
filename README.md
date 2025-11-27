@@ -26,49 +26,49 @@ raiz do projeto/
 ├── src/
 │   ├── assets/             # Imagens usadas no código
 │   ├── components/         # Componentes reutilizáveis
-│   │   ├── Header.tsx
+│   │   ├── Header.jsx
 │   │   ├── Header.css
-│   │   ├── Footer.tsx
+│   │   ├── Footer.jsx
 │   │   ├── Footer.css
-│   │   ├── ProductCard.tsx
+│   │   ├── ProductCard.jsx
 │   │   ├── ProductCard.css
-│   │   ├── ScrollToTop.tsx
+│   │   ├── ScrollToTop.jsx
 │   ├── context/            # Context API
-│   │   ├── AuthContext.tsx
-│   │   ├── CartContext.tsx
+│   │   ├── AuthContext.jsx
+│   │   ├── CartContext.jsx
 │   ├── data/               # Dados locais
-│   │   ├── products.ts
+│   │   ├── products.js
 │   ├── hooks/              # Hooks
-│   │   ├── useFrete.ts
-│   │   ├── useProducts.ts
+│   │   ├── useFrete.js
+│   │   ├── useProducts.js
 │   ├── pages/              # Páginas principais
-│   │   ├── Home.tsx
+│   │   ├── Home.jsx
 │   │   ├── Home.css
-│   │   ├── Cart.tsx
+│   │   ├── Cart.jsx
 │   │   ├── Cart.css
-│   │   ├── ProductDetail.tsx
+│   │   ├── ProductDetail.jsx
 │   │   ├── ProuctDetail.css
-│   │   ├── Admin.tsx
+│   │   ├── Admin.jsx
 │   │   ├── Admin.css
-│   │   ├── Auth.tsx
+│   │   ├── Auth.jsx
 │   │   ├── Auth.css
-│   │   ├── Login.tsx
+│   │   ├── Login.jsx
 │   │   ├── Login.css
-│   │   ├── Products.tsx
+│   │   ├── Products.jsx
 │   │   ├── Products.css
-│   │   ├── Register.tsx
+│   │   ├── Register.jsx
 │   │   ├── Register.css
 │   ├── types/              # Tipagens
-│   │   ├── frete.ts
-│   │   ├── index.ts
-│   ├── App.tsx             # Rotas e Providers
+│   │   ├── frete.js
+│   │   ├── index.js
+│   ├── App.jsx             # Rotas e Providers
 │   ├── App.css
 │   ├── index.css     
-│   ├── main.tsx            # Ponto de entrada
+│   ├── main.jsx            # Ponto de entrada
 ├── package.json
 ├── tsconfig.json
 ├── index.html
-└── vite.config.ts
+└── vite.config.js
 
 ```
 
