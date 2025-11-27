@@ -10,7 +10,7 @@ O projeto foi desenvolvido em **React + TypeScript + Vite**, utilizando Context 
 | Categoria | Tecnologia | Descrição |
 |----------|------------|-----------|
 | Framework | **React** | Biblioteca para construção da interface |
-| Linguagem | **TypeScript** | Tipagem estática |
+| Linguagem | **JavaScript** | Tipagem dinâmica |
 | Build Tool | **Vite** | Ferramenta de build rápida |
 | Estilização | **CSS Modules** | Estilos isolados por componente |
 | Estado Global | **React Context API** | Autenticação e carrinho |
