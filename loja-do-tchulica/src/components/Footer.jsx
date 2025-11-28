@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="footer-content">
           <div className="footer-section">
             <h3>Loja do Tchulica</h3>
-            <p className='texto-branco'>Os melhores celulares e acessórios você encontra aqui.</p>
+            <p className='texto-branco'> Somos a Loja do Tchulica! A única na cidade com 6 meses de GARANTIA! Trabalhamos com as melhores peças do mercado e oferecemos o melhor atendimento ao cliente. Temos variedade em capas, películas e acessórios para todos os celulares. Fazemos manutenção em todos os tipos de aparelhos celulares e eletrônicos. </p>
             <p className='texto-branco'> VENHA PARA A LOJA DO TCHULICA!!</p>
           </div>
 
@@ -66,3 +66,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
