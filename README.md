@@ -4,8 +4,6 @@ Bem-vindo ao repositório da **Loja do Tchulica**, um e-commerce completo focado
 
 O projeto foi desenvolvido em **React + TypeScript + Vite**, utilizando Context API, componentes reutilizáveis e boas práticas modernas de desenvolvimento.
 
-Desenvolvemos uma API REST em Python com Flask para gerenciar os produtos. A API possui endpoints para listar, criar, atualizar e deletar produtos, além de estar totalmente integrada ao frontend React.
-
 ---
 ## ✨ Tecnologias Utilizadas
 
