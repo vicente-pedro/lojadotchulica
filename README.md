@@ -4,6 +4,8 @@ Bem-vindo ao repositório da **Loja do Tchulica**, um e-commerce completo focado
 
 O projeto foi desenvolvido em **React + JavaScript + Vite**, utilizando Context API, componentes reutilizáveis e boas práticas modernas de desenvolvimento.
 
+Desenvolvemos uma API utilizando JavaScript para disponibilizar e exibir os produtos da loja diretamente no site, permitindo a listagem dinâmica das informações como nome, preço e imagem dos produtos.
+
 ---
 ## ✨ Tecnologias Utilizadas
 
@@ -33,7 +35,7 @@ raiz do projeto/
 │   │   ├── ProductCard.jsx
 │   │   ├── ProductCard.css
 │   │   ├── ScrollToTop.jsx
-│   ├── context/            # Context API
+│   ├── context/
 │   │   ├── AuthContext.jsx
 │   │   ├── CartContext.jsx
 │   ├── data/               # Dados locais
