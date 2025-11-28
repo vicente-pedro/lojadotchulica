@@ -7,7 +7,7 @@ O projeto foi desenvolvido em **React + JavaScript + Vite**, utilizando Context 
 Desenvolvemos uma API utilizando JavaScript para disponibilizar e exibir os produtos da loja diretamente no site, permitindo a listagem dinâmica das informações como nome, preço e imagem dos produtos.
 
 ---
-## ✨ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 | Categoria | Tecnologia | Descrição |
 |----------|------------|-----------|
@@ -18,6 +18,7 @@ Desenvolvemos uma API utilizando JavaScript para disponibilizar e exibir os prod
 | Estado Global | **React Context API** | Autenticação e carrinho |
 | Lógica Reutilizável | **Custom Hooks** | Regras de negócio reaproveitáveis |
 
+---
 ### Tecnologias Utilizadas na API
 
 | Categoria | Tecnologia / Pasta | Descrição |
@@ -151,6 +152,6 @@ A aplicação rodará em:
 ## 🌎 Acesse o Site Online
 
 A Loja do Tchulica já está disponível no ar!
-Clique no link abaixo para acessar a versão publicada no Netlify:
+Clique no link abaixo para acessar a versão publicada no Vercel:
 
 👉 https://lojadotchulica.vercel.app/
