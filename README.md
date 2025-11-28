@@ -133,4 +133,4 @@ A aplicação rodará em:
 A Loja do Tchulica já está disponível no ar!
 Clique no link abaixo para acessar a versão publicada no Netlify:
 
-👉 https://lojadotchulica.netlify.app/
+👉 https://lojadotchulica.vercel.app/
