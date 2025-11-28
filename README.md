@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório da **Loja do Tchulica**, um e-commerce completo focado na venda de **celulares**, **fones**, **carregadores**, **cabos** e diversos **acessórios para smartphones**.
 
-O projeto foi desenvolvido em **React + TypeScript + Vite**, utilizando Context API, componentes reutilizáveis e boas práticas modernas de desenvolvimento.
+O projeto foi desenvolvido em **React + JavaScript + Vite**, utilizando Context API, componentes reutilizáveis e boas práticas modernas de desenvolvimento.
 
 ---
 ## ✨ Tecnologias Utilizadas
