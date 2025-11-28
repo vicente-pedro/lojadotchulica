@@ -25,6 +25,12 @@ Desenvolvemos uma API utilizando JavaScript para disponibilizar e exibir os prod
 raiz do projeto/
 ├── public/
 │   ├── images              # Imagens estáticas e ícones
+├── server/                 # API desenvolvida
+│   ├── controllers/
+│   ├── middleware/
+│   ├── data/
+│   ├── routes/
+│   ├── server.js
 ├── src/
 │   ├── assets/             # Imagens usadas no código
 │   ├── components/         # Componentes reutilizáveis
