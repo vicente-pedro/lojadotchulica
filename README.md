@@ -21,8 +21,6 @@ O projeto foi desenvolvido em **React + JavaScript + Vite**, utilizando Context 
 
 ```
 raiz do projeto/
-├── api
-│   ├── app.py
 ├── public/
 │   ├── images              # Imagens estáticas e ícones
 ├── src/
