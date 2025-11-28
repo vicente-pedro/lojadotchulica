@@ -1,4 +1,3 @@
-/* Página do Carrinho */
 .cart-page {
   width: 100%;
   min-height: calc(100vh - 160px);
@@ -10,7 +9,6 @@
   padding: 2rem 1rem;
 }
 
-/* Cabeçalho do carrinho */
 .cart-header {
   display: flex;
   justify-content: space-between;
@@ -43,7 +41,6 @@
   transform: translateY(-2px);
 }
 
-/* Conteúdo do carrinho */
 .cart-content {
   display: grid;
   grid-template-columns: 1fr 350px;
@@ -51,7 +48,6 @@
   align-items: start;
 }
 
-/* Itens do carrinho */
 .cart-items {
   display: flex;
   flex-direction: column;
@@ -102,7 +98,6 @@
   font-size: 1.1rem;
 }
 
-/* Controles de quantidade */
 .cart-item-actions {
   display: flex;
   flex-direction: column;
@@ -182,7 +177,6 @@
   transform: scale(1.1);
 }
 
-/* Resumo do pedido */
 .cart-summary {
   background-color: rgb(255, 255, 255);
   padding: 2rem;
@@ -280,7 +274,6 @@
   margin-bottom: 0.5rem;
 }
 
-/* Carrinho vazio */
 .empty-cart {
   text-align: center;
   padding: 4rem 2rem;
@@ -326,7 +319,6 @@
   transform: translateY(-2px);
 }
 
-/* Responsivo */
 @media (max-width: 1024px) {
   .cart-content {
     grid-template-columns: 1fr;
