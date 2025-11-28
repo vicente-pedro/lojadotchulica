@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "name": "Caneco Tchulica",
+    "price": 19.9,
+    "description": "Caneco estiloso"
+  },
+  {
+    "id": "2",
+    "name": "Boné Tchulica",
+    "price": 29.9,
+    "description": "Boné confortável"
+  }
+]
