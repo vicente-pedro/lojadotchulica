@@ -71,7 +71,7 @@ export const products = [
     category: 'smartphone',
     brand: 'iPhone',
     price: 12499.0,
-    image: 'https://images.kabum.com.br/produtos/fotos/magalu/928978/xlarge/Apple-iPhone-17-Pro-2TB-Azul-intenso-6-9-48MP-iOS-5G_1758028436.jpg',
+    image: 'https://cdn.awsli.com.br/2500x2500/2549/2549769/produto/370980523/01-3e29zaz9ns.png',
     description: 'iPhone 17 Pro Max com 512GB, chip A19 Pro, câmera de 48MP e tela OLED de 6.9"',
     stock: 8,
     colors: ['Azul-escuro', 'Laranja-cósmico', 'Prata']
@@ -382,3 +382,4 @@ export const products = [
     stock: 20
   }
 ];
+
