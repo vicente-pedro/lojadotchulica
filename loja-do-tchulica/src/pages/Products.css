@@ -1,4 +1,3 @@
-/* Página de Produtos */
 .products-page {
   width: 100%;
   min-height: calc(100vh - 200px);
@@ -36,7 +35,6 @@
   opacity: 0.9;
 }
 
-/* Container principal */
 .products-container {
   display: flex;
   flex-direction: column;
@@ -46,7 +44,6 @@
   padding: 0 1rem;
 }
 
-/* Controles dos produtos */
 .products-controls {
   display: flex;
   justify-content: flex-start;
@@ -71,7 +68,6 @@
   transform: translateY(-2px);
 }
 
-/* Sidebar de filtros */
 .filters-sidebar {
   background-color: rgb(255, 255, 255);
   padding: 2rem;
@@ -126,7 +122,6 @@
   font-weight: 600;
 }
 
-/* Filtros */
 .search-input {
   width: 100%;
   padding: 0.8rem 1rem;
@@ -188,7 +183,6 @@
   border-color: rgb(0, 0, 0);
 }
 
-/* Footer dos filtros */
 .filters-footer {
   margin-top: auto;
   padding-top: 2rem;
@@ -225,7 +219,6 @@
   transform: translateY(-2px);
 }
 
-/* Área principal */
 .products-main {
   min-height: 500px;
   display: flex;
@@ -250,7 +243,6 @@
   text-align: center;
 }
 
-/* Grid de produtos */
 .products-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -260,7 +252,6 @@
   width: 100%;
 }
 
-/* Estado vazio */
 .no-products {
   text-align: center;
   padding: 4rem 2rem;
@@ -300,7 +291,6 @@
   width: 100%;
 }
 
-/* Responsivo */
 @media (max-width: 1024px) {
   .products-container {
     flex-direction: column;
