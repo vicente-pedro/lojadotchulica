@@ -142,7 +142,7 @@ A aplicação rodará em:
 - Login/Cadastro
 
 ### 📦 Produtos Tipados
-- Tipagem completa via TypeScript
+- Tipagem completa via JavaScript
 
 ### 🚚 Cálculo de Frete
 - Hook `useFrete()`  
