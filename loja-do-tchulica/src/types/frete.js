@@ -19,5 +19,5 @@
  * @property {string} PrazoEntrega
  */
 
-// Arquivo convertido de TypeScript para JavaScript contendo apenas typedefs JSDoc.
 export {};
+
