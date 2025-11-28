@@ -1,4 +1,3 @@
-/* Product Card */
 .product-card {
   background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
   border-radius: var(--border-radius-lg);
@@ -35,7 +34,6 @@
   opacity: 1;
 }
 
-/* Imagem do produto */
 .product-image-container {
   position: relative;
   width: 100%;
@@ -55,7 +53,6 @@
   transform: scale(1.08);
 }
 
-/* Badge da categoria */
 .product-category {
   position: absolute;
   top: 12px;
@@ -72,7 +69,6 @@
   border: 1px solid var(--primary-yellow);
 }
 
-/* Informações do produto */
 .product-info {
   padding: 1.75rem;
   display: flex;
@@ -103,7 +99,6 @@
   background-clip: text;
 }
 
-/* Cores do produto */
 .product-colors {
   margin-bottom: 1rem;
 }
@@ -144,7 +139,6 @@
   border: 1px solid var(--primary-yellow);
 }
 
-/* Footer do card */
 .product-footer {
   margin-top: auto;
   display: flex;
@@ -208,7 +202,6 @@
   box-shadow: none;
 }
 
-/* Responsivo */
 @media (max-width: 1024px) {
   .product-image-container {
     height: 200px;
