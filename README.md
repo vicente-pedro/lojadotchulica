@@ -18,6 +18,18 @@ Desenvolvemos uma API utilizando JavaScript para disponibilizar e exibir os prod
 | Estado Global | **React Context API** | Autenticação e carrinho |
 | Lógica Reutilizável | **Custom Hooks** | Regras de negócio reaproveitáveis |
 
+### Tecnologias Utilizadas na API
+
+| Categoria | Tecnologia / Pasta | Descrição |
+|----------|---------------------|-----------|
+| Backend | **server/** | Diretório principal da API desenvolvida |
+| Controllers | **controllers/** | Controladores responsáveis pela lógica das rotas |
+| Middleware | **middleware/** | Funções intermediárias para validações e segurança |
+| Banco / Dados | **data/** | Arquivos de dados, conexões ou simulações de banco |
+| Rotas | **routes/** | Definição das rotas da API |
+| Servidor | **server.js** | Arquivo principal que inicializa o servidor |
+
+
 ---
 ## 📦 Estrutura do Projeto
 
